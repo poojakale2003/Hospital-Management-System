@@ -15,11 +15,6 @@ Hospital Management System using MySQL, Php and Bootstrap
 7. Addition of more details on payment - such as date of the payment made, amount paid, etc.
 8. Implementation of export button in admin module to export all details to an excel sheet.
 
-## Prerequisites
-1. Install XAMPP web server
-2. Any Editor (Preferably VS Code or Sublime Text)
-3. Any web browser with latest version
-
 ## Languages and Technologies used
 1. HTML5/CSS3
 2. JavaScript (to create dynamically updating content)
